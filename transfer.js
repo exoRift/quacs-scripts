@@ -1,6 +1,6 @@
 /**
- * importexport.js
- * This script allows the importing and exporting of QuACS semester plan data
+ * transfer.js
+ * This script allows the exporting and subsequent importing of QuACS semester plan data
  *
  * @license MIT
  * @version 1.0
